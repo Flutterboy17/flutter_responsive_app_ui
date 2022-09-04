@@ -1,4 +1,4 @@
-# mitch_koko
+# flutter_responsive_app_ui
 
 A new Flutter project.
 
